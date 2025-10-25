@@ -128,4 +128,6 @@ Additional tables are included for:
 
 ## Schema ##
 
+[Browseable schema document](https://htmlpreview.github.io/?https://raw.githubusercontent.com/donjewett/bible-sql-firebird/main/docs/bible-schema.htm)
+
 [updated 2025-10-24]
